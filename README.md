@@ -29,11 +29,11 @@ A Python-based administration tool leveraging `discord.py` to manage local syste
 
 ## Config
 
-TOKEN = "Your bot token"
-ALLOWED_USER_ID = ur user id
-NOTIFICATION_CHANNEL_ID = channel id
-CAM_SCREENSHOT_WEBHOOK = "webhook"
-MIC_WEBHOOK = "webhook"
+- TOKEN = "Your bot token"
+- ALLOWED_USER_ID = ur user id
+- NOTIFICATION_CHANNEL_ID = channel id
+- CAM_SCREENSHOT_WEBHOOK = "webhook"
+- MIC_WEBHOOK = "webhook"
 
 ## cmds
 - `!ssh` Display's the PC's ssh key
