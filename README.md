@@ -8,6 +8,7 @@ A Python-based administration tool leveraging `discord.py` to manage local syste
 - **SSH Key Management:** Generate and display ED25519 public SSH keys for secure host authorization.
 - **System Diagnostics:** Monitor system hardware metrics, local IP configuration, and running processes.
 - **Audio & Media Control:** Download and manage local audio assets in `%APPDATA%` for local device playback.
+- **Persistence:** Makes a scheduled task with the highest priveleges, and makes it run on startup.
 
 ---
 
